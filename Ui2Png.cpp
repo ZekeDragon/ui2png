@@ -21,11 +21,8 @@
 #include <QFile>
 #include <QImage>
 #include <QLocale>
-#include <QMargins>
-#include <QPainter>
 #include <QTranslator>
 #include <QUiLoader>
-#include <QVBoxLayout>
 #include <QWidget>
 
 struct Ui2Png::Impl
